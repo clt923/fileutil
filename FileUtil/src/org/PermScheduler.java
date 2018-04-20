@@ -38,7 +38,7 @@ public class PermScheduler {
     {
     	boolean posix = false;
     	
-    	String dir = "/edinew/newtrans/cadata/FF_SHIP/in/";
+    	String dir = "/edinew/newtrans/cadata/FF_SHIP/in/"; 
     	
     	if (args.length < 1) {
 			System.out.println("Arguments missing: Perscheduler [argv1] [argv2]");
